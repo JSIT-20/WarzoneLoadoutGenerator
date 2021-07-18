@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/WarzoneLoadoutGenerator/static/css/main.2abf17c2.chunk.css",
+    "main.js": "/WarzoneLoadoutGenerator/static/js/main.6d86f577.chunk.js",
+    "main.js.map": "/WarzoneLoadoutGenerator/static/js/main.6d86f577.chunk.js.map",
+    "runtime-main.js": "/WarzoneLoadoutGenerator/static/js/runtime-main.b267b164.js",
+    "runtime-main.js.map": "/WarzoneLoadoutGenerator/static/js/runtime-main.b267b164.js.map",
+    "static/css/2.4be38407.chunk.css": "/WarzoneLoadoutGenerator/static/css/2.4be38407.chunk.css",
+    "static/js/2.a58e1424.chunk.js": "/WarzoneLoadoutGenerator/static/js/2.a58e1424.chunk.js",
+    "static/js/2.a58e1424.chunk.js.map": "/WarzoneLoadoutGenerator/static/js/2.a58e1424.chunk.js.map",
+    "static/js/3.0fb17c8a.chunk.js": "/WarzoneLoadoutGenerator/static/js/3.0fb17c8a.chunk.js",
+    "static/js/3.0fb17c8a.chunk.js.map": "/WarzoneLoadoutGenerator/static/js/3.0fb17c8a.chunk.js.map",
+    "index.html": "/WarzoneLoadoutGenerator/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/WarzoneLoadoutGenerator/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.2abf17c2.chunk.css.map": "/WarzoneLoadoutGenerator/static/css/main.2abf17c2.chunk.css.map",
+    "static/js/2.a58e1424.chunk.js.LICENSE.txt": "/WarzoneLoadoutGenerator/static/js/2.a58e1424.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b267b164.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.a58e1424.chunk.js",
+    "static/css/main.2abf17c2.chunk.css",
+    "static/js/main.6d86f577.chunk.js"
+  ]
+}
